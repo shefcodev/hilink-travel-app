@@ -60,7 +60,6 @@ const Camp = () => {
           title='Mountain View Camp'
           subtitle='Somewhere in the Wilderness'
           people='50+ joined'
-          x
         />
       </div>
 
