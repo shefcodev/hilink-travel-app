@@ -36,7 +36,7 @@ const Footer = () => {
                   <Link
                     href='/'
                     key={index}
-                    className='flex gap-4 md:flex-col lg:flex-row'
+                    className='flex gap-4 md:flex-col lg:flex-row max-sm:items-center lg:items-center'
                   >
                     <p className='whitespace-nowrap'>{label}:</p>
                     <p className='medium-14 whitespace-nowrap text-blue-70'>
